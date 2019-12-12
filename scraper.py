@@ -212,7 +212,8 @@ def character_scripts(character_dictionary):
 
         #append to file 
         for sentence in sentence_list:
-            open(path_to_file,'a+').write(sentence + '\n')
+            with open(path_to_file, 'a+') as f:
+                f.write(sentence + '\n')
 
 
 
@@ -245,5 +246,7 @@ if __name__ == "__main__":
 
     char_dict = character_dictionary()
 
-    print(char_dict.keys())
+    #print(char_dict.keys())
+
+    character_scripts(char_dict)
 
