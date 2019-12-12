@@ -192,5 +192,5 @@ if __name__ == "__main__":
     #condense_txt()
 
     #regex_brackets()
-    regex_character_lines()
+    #regex_character_lines()
 
