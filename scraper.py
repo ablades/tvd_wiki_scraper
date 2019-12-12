@@ -167,6 +167,45 @@ def regex_character_lines():
         
         open(f'txt_transcripts/Episode-{i}.txt','w').write('\n'.join(cleaned_txt))
 
+def character_dictionary():
+    #character dictionary that stores all character lines
+    character_dictionary = dict()
+
+    for i in range(1,172):
+        #get path for file
+        path = f"txt_transcripts/Episode-1.txt"
+
+
+        with open(path, 'r') as f:
+            line = f.readline()
+            
+
+        lines = open(path).read().splitlines()
+
+        for line in lines:
+            line_list = line.split(" ")
+            #character name
+            character_name = line_list[0]
+            character_name = character_name[:-1]
+
+            sentence = ' '.join(line_list[1:])
+
+            if character_dictionary.get(character_name) is not None:
+                character_dictionary[character_name].append(sentence)
+            #character does not exist yet. create list and add sentence
+            else:
+                character_dictionary[character_name] = list()
+                character_dictionary[character_name].append(sentence)
+
+
+
+    print(character_dictionary.keys())
+
+
+
+
+            #print(line_list)
+
 
 if __name__ == "__main__":
 
@@ -193,4 +232,6 @@ if __name__ == "__main__":
 
     #regex_brackets()
     #regex_character_lines()
+
+    character_dictionary()
 
