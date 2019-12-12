@@ -110,16 +110,17 @@ def change_file_extenstion():
 def condense_txt():
     for i in range(1,172):
         #get path for file
-        path = f"transcript_webpages/Episode-{i}.html"
+        path = f"transcript_webpages/Episode-{i}.txt"
 
         lines = open(path).read().splitlines()
 
         cleaned_txt = list()
 
         for line in lines:
-            cleaned_txt.append(line.strip()
+            if not line.isspace():
+                cleaned_txt.append(line.strip())
 
-        open('txt_transcripts/Episode-{i}.txt','w').write('\n'.join(cleaned_txt))
+        open(f'txt_transcripts/Episode-{i}.txt','w+').write('\n'.join(cleaned_txt))
 
 if __name__ == "__main__":
 
@@ -141,4 +142,4 @@ if __name__ == "__main__":
     #changes the file extension to .txt for easier parsing
     #change_file_extenstion()
 
-    #get_transcripts(transcripts_urls)
+    condense_txt()
