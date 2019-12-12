@@ -103,8 +103,8 @@ def pull_text():
 
 def change_file_extenstion():
     folder = '/Users/ablades/dev/MakeSchool/tvd_wiki_scraper/transcript_webpages'
-    for filename in glob.iglob(os.path.join(folder, '*.html')):
-        os.rename(filename, filename[:-4] + '.txt')
+    for filename in glob.iglob(os.path.join(folder, '*..txt')):
+        os.rename(filename, filename[:-4] + 'txt')
 
 
 if __name__ == "__main__":
@@ -124,6 +124,7 @@ if __name__ == "__main__":
     #only takes text from remaining file
     #pull_text()
 
-    change_file_extenstion()
+    #changes the file extension to .txt for easier parsing
+    #change_file_extenstion()
 
     #get_transcripts(transcripts_urls)
