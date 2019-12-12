@@ -35,10 +35,32 @@ def get_transcripts(transcripts_urls):
         with open(f"Episode-{episode_count}.html", 'w+') as f:
             f.write(r.text)
 
+def minimize():
+    "transcript_webpages/Episode-1.html"
+    #take all html files 
+    for i in range(1,172):
+
+        #get path for file
+        path = f"transcript_webpages/Episode-{i}.html"
+        print(path)
+
+        #format file
+        soup = BeautifulSoup(open(path), "html.parser")
+        content = soup.find(id="WikiaMainContent")
+
+        with open(path, 'w') as f:
+            f.write(str(content))
+
+        #get all urls
+        #print(soup)
+
+
 
 
 
 if __name__ == "__main__":
-    transcripts_urls = soupify()
+    #transcripts_urls = soupify()
 
-    get_transcripts(transcripts_urls)
+    #minimize()
+
+    #get_transcripts(transcripts_urls)
