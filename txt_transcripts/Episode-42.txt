@@ -1,1340 +1,399 @@
-
-
-
-
-The Last Day
-
-
-
-
-
-
-
-Information
-
-
-season
-number
-
-
-
-
-2
-20
-
-
-
-
-
-
-Navigation
-
-
-previous
-next
-
-
-
-
-Klaus
-The Sun Also Rises
-
-
-
-
-
-Contents
-
-Salvatore Boarding House
-
-
-
-
 Elijah: Tonight is the full moon. We should assume that Klaus is prepared to break the curse.
-
 Stefan: Elena said that the Sun and the Moon curse is fake? That it's actually just a curse placed on Klaus.
-
 Elijah: Klaus is a vampire born of a werewolf bloodline. The curse has kept his werewolf aspect from manifesting. But if he breaks it...He'll be a true hybrid.
-
-
-
-
 Damon: Then why are we letting him break the curse? We can kill him today. With Bonnie.
-
 Stefan: Damon...
-
 Elena: No. Bonnie can't use that much power without dying.
-
 Damon: I'll write her a great eulogy.
-
 Elena: It's not an option, Damon.
-
 Stefan: All right, how do we break this curse?
-
 Elijah: Well, the ritual itself is relatively straightforward. The ingredients, so to speak, you already know.
-
 Stefan: The moonstone.
-
 Elijah: A witch will channel the power of the full moon to release the spell that's bound within the stone. After that, Klaus, being both werewolf and vampire, will sacrifice one of each.
-
 Elena: And where do I fit into it?
-
 Elijah: The final part of the ritual.
-
-
-
-
 Elijah: Klaus must drink the blood of the doppelgänger...to the point of your death.
-
-
-
-
 Elena: And that's where you come in.
-
 Elijah: This is an elixir that I acquired some 500 years ago for Katerina. It possesses mystical properties of resuscitation.
-
 Elena: So I'll be dead?
-
 Elijah: And then you won't.
-
 Damon: That's your plan? A magical witch potion with no expiration date?
-
-
-
-
 Damon: You want to come back to life, what about John's ring?
-
 Elijah: Those rings only work on humans. The doppelgänger's a supernatural occurrence. Odds are, the ring won't work.
-
 Damon: I'll take those odds over your elixir. What if it doesn't work, Elena?
-
 Elena: Then I guess I'll just be dead.
-
-
-
-
 Elena: Do we know if Klaus has everything he needs to do this? Does he have a werewolf?
-
 Elijah: Klaus has been waiting to break this curse for over a thousand years. If he doesn't already have a werewolf, my guess is by tonight, he will.
-
-Lockwood Mansion
-
-
-
-
 Carol: Tyler, honey. It's your mother. I don't know where you are, but I need you. I've had an accident and I'm in the hospital.
-
-
-
-
 Carol: Please, Tyler, come home.
-
-
-
-
 Carol: Why did I say that?
-
 Maddox: Because you had a terrible fall.
-
-
-
-
-Salvatore Boarding House
-
-
-
-
 Stefan: Breakfast of champions, huh?
-
 Damon: I'm surrounded by idiots. I need all the help I can get.
-
 Stefan: You know, you're not helping.
-
 Damon: Elijah is an original vampire, Stefan. One we tried to kill. You're going to believe this guy?
-
 Stefan: What do you want me to do, Damon? Elena made her decision. She's choosing to trust Elijah. I'm going to put my faith in her.
-
 Damon: Why? She's going to end up dead.
-
 Stefan: Because she put her faith in me. She chose to trust me in spite of what I am. I'm going to bet on somebody's instincts, it's going to be hers.
-
 Damon: Well, then, that makes you the biggest idiot of them all.
-
 Stefan: She chose to trust you, too.
-
 Damon: Then maybe you shouldn't be so sure about her instincts.
-
-
-
-
-
-
 Elena: You'd think he'd understand why I'm willing to do this.
-
-
-
-
 Elijah: Why are you?
-
 Elena: I'm the key to breaking the curse. Klaus is here because of me. If I don't stop him, then he's going to hurt people. It's that simple.
-
 Elijah: You know, there's a possibility this elixir won't work. I don't want to mislead you.
-
 Elena: I know the chance I'm taking.
-
-
-
-
 Jenna: Get out!
-
 Alaric: Jenna, Jenna!
-
 Jenna: Get out!
-
-
-
-
 Alaric: Jenna, put the crossbow down, okay? It's me.
-
 Jenna: Stay away from me.
-
-
-
-
 Elena: What's going on?
-
 Alaric: It's me, Elena, I swear, okay? He let me go. Klaus let me go.
-
 Damon: Prove it.
-
-
-
-
 Alaric: Okay, uh, first night you and I spent together, Jeremy walked in right when I was about to...
-
 Jenna: Okay, it's him.
-
-
-
-
 Stefan: Why did he let you go?
-
 Alaric: He wanted me to deliver a message. The sacrifice happens tonight.
-
-Mystic Falls Hospital
-
-
-
-
 Carol: Tyler?
-
 Tyler: Mom.
-
-
-
-
 Carol: You're back.
-
 Tyler: I'm back.
-
-Mystic Grill
-
-
-
-
 Matt: Ohh. Jeez!
-
 Caroline: Sorry! I didn't mean to scare you.
-
 Matt: It's okay, I just, I didn't know you were here.
-
 Caroline: Yeah, I wanted to try and catch you on your break so we could hang out.
-
 Matt: I have lunch in an hour.
-
 Caroline: Perfect. I will go run some errands and I will be right back.
-
-
-
-
 Caroline: I'll see you in a bit.
-
 Matt: Okay.
-
-
-
-
-
-
-Sheriff Forbes: Does she suspect anything?
-
+Forbes: Does she suspect anything?
 Matt: No, but...I can't do this anymore. I've been with her the past few days, and I'm putting on the best show of my life. But either she is too, or she's still the same Caroline.
-
-Sheriff Forbes: She's not the same. She's a vampire.
-
+Forbes: She's not the same. She's a vampire.
 Matt: At this point, I don't even know what that means.
-
-Sheriff Forbes: Look, I know this is hard to understand, but my family, we were raised with this. They're monsters, Matt. They have no soul, no humanity.
-
+Forbes: Look, I know this is hard to understand, but my family, we were raised with this. They're monsters, Matt. They have no soul, no humanity.
 Matt: There's nothing about her that makes me believe that.
-
-Sheriff Forbes: It's an act. I believed Damon Salvatore was my closest ally in this town. Instead, he's a killer. They killed your sister. What other proof do you need?
-
+Forbes: It's an act. I believed Damon Salvatore was my closest ally in this town. Instead, he's a killer. They killed your sister. What other proof do you need?
 Matt: I could ask you the same question, Sheriff. Why haven't you done anything? Why are you hesitating?
-
-Sheriff Forbes: Because I need more information. And because, in spite of everything I just said, I still look at her and I...I see my daughter.
-
+Forbes: Because I need more information. And because, in spite of everything I just said, I still look at her and I...I see my daughter.
 Matt: Damon is the problem, not Caroline. You should focus on him.
-
-Sheriff Forbes: I shouldn't have involved you, Matt. Thank you for all of your help, but I'll take it from here.
-
-
-
-
-Salvatore Boarding House
-
-
-
-
+Forbes: I shouldn't have involved you, Matt. Thank you for all of your help, but I'll take it from here.
 Stefan: So you don't remember anything that happened?
-
 Alaric: No. It's like I blacked out and woke up three days later. Katherine was there.
-
 Stefan: She's under compulsion. Damon snuck her some vervain, but she can't leave until Klaus tells her she can.
-
 Elena: Where is Damon?
-
 Jenna: I saw him go upstairs.
-
-
-
-
 Alaric: So what else did I do?
-
-
-
-
 Elena: You disappeared.
-
 Damon: I don't want to hear anymore.
-
 Elena: I need you to understand why I'm doing this.
-
 Damon: Why? It clearly doesn't matter what I think.
-
 Elena: I'll be fine, Damon. I'll drink the elixir, Bonnie will kill Klaus and then all of this will finally be over.
-
 Damon: If it works.
-
 Elena: It will work.
-
 Damon: You think it will work. You want it to work. Why am I the only one who's convinced it won't? There has to be another way.
-
 Elena: There isn't.
-
 Damon: And you're going to die, Elena.
-
 Elena: And then I'll come back to life.
-
 Damon: That is not a risk I'm willing to take.
-
-
-
-
 Elena: But I am.
-
-
-
-
 Elena: It's my life, Damon. My choice.
-
 Damon: I can't lose you.
-
 Elena: You won't.
-
-
-
-
 Damon: There is another way.
-
 Elena: What are you...
-
-
-
-
 Elena: Damon, no!
-
-
-
-
 Stefan: What did you do?! Huh? What did you do?!
-
-
-
-
 Damon: I saved her life.
-
-
-
-
 Damon: You're so bent on dying, at least this way I know you'll come back.
-
 Stefan: As a vampire! She'll come back a vampire!
-
 Damon: It's better than nothing else.
-
 Stefan: How could you, of all people, take that choice away from her?
-
-
-
-
 Damon: Go ahead: wish me an eternity of misery. Believe me, you'll get over it.
-
-
-
-
 Elena: Stefan!
-
-
-
-
 Damon: Admit it. You just wish you had the balls to do it yourself.
-
-
-
-
 Elena: Get out of here!
-
-
-
-
 Alaric: What the hell's going on?
-
 Elena: Get him out of here!
-
-
-
-
 Jenna: Oh, my God.
-
 Alaric: Okay, Jenna, downstairs are some blood bags. Go get them now. Go!
-
-
-
-
 Elena: It's okay. It's okay. You're going to be okay.
-
 Stefan: I'm so sorry.
-
 Elena: Shh. It's okay.
-
 Stefan: I'm sorry.
-
-
-
-
 Elijah: Well, it sounds like you won't be needing this anymore. Feeding her vampire blood rendered it useless. Tell Elena I'll be back before nightfall. We'll proceed as planned.
-
 Damon: We both know that elixir wouldn't have worked anyway.
-
 Elijah: The problem, Damon: you talk a good game but you don't actually know anything. She'll never forgive you. And never for a vampire...It's a very long time.
-
-
-
-
-
-
 Stefan: Thank you. Both of you.
-
 Alaric: Yeah, well, we'll be downstairs.
-
-
-
-
 Alaric: I know it's, uh, it's a lot to take in.
-
 Jenna: Yeah.
-
 Alaric: I tried to protect you from all this, but I should have known you could handle it.
-
 Jenna: Can I?
-
 Alaric: Well, you just did. Look, Jenna...I know we have a lot to talk about.
-
-
-
-
 Jenna: Hey. I'm glad you're okay. I should have said that already.
-
-
-
-
-
-
 Elena: How could he do that to me? Why?
-
 Stefan: Hey. We've never talked about this. What this all means.
-
 Elena: It doesn't matter.
-
 Stefan: Of course it matters. Hey. It matters. I want you to go somewhere with me.
-
 Elena: Stefan, I can't.
-
 Stefan: No, no, it's not far, okay? It's just for the day. I promise.
-
-Mystic Falls Hospital
-
-
-
-
 Tyler: What are you doing here?
-
 Jules: I should be asking you that. I told you not to come.
-
 Tyler: She's my mother. I had to.
-
 Jules: Now we have to get out of here; Lock ourselves up before tonight.
-
-
-
-
 Caroline: Tyler? Jules.
-
 Jules: I'll give you a few minutes.
-
 Tyler: Thank you.
-
 Jules: Just a few, Tyler.
-
 Tyler: I got it.
-
-
-
-
 Tyler: She's just making sure I'm safe.
-
 Caroline: So what, are you two, like, friends now?
-
 Tyler: She's been helping me. How are you?
-
 Caroline: I heard about your mom. I just came to check in on her.
-
 Tyler: She's banged up, but she'll be okay.
-
 Caroline: And you? Um...How's everything with you?
-
 Tyler: I'm hanging in there.
-
 Caroline: Good.
-
 Tyler: Yeah. I should get going. Jules and I need to get on the road.
-
 Caroline: You're leaving again?
-
 Tyler: I left for a reason, Caroline.
-
 Caroline: Your explanation must have got lost in the mail, along with your goodbye.
-
 Tyler: Well...Take care of yourself.
-
 Caroline: Tyler...
-
-
-
-
 Greta: Let's go.
-
-
-
-
-Mystic Grill
-
-
-
-
 Matt: Hey, Caroline, it's me. I thought you were coming back to meet me. Look, I need to talk to you. It's important.
-
-
-
-
 Alaric: I'll have the same.
-
 Damon: I screwed up.
-
 Alaric: Yeah. Yeah, you did.
-
 Damon: Yeah.
-
 Klaus: Gentlemen? Why so glum?
-
-
-
-
 Damon: Ugh. Klaus, I presume.
-
 Klaus: In the flesh.
-
-
-
-
 Klaus: Thanks for the loaner, mate.
-
-
-
-
 Damon: Any reason you stopped by to say hi?
-
 Klaus: I'm told you and your brother fancy my doppelgänger. Just thought I'd remind you to not do anything you'll regret.
-
-
-
-
 Damon: Ha. Thanks for the advice. I don't suppose I could talk you into a postponement, by any chance, huh?
-
 Klaus: You are kidding?
-
-
-
-
 Klaus: He is kidding, right?
-
 Alaric: No, not really.
-
 Damon: I mean, come on, what's one month in the whole grand scheme of things?
-
 Klaus: Let me be clear...I have my vampire. I have my werewolf. I have everything I need. The ritual will happen tonight. So if you want to live to see tomorrow, don't screw it up.
-
-
-
-
 Damon: That was fun.
-
 Alaric: You're going to screw it up, aren't you?
-
-
-
-
 Damon: You think if I took his werewolf out of the equation, she might...Get over the fact that I tried to turn her into a vampire?
-
 Alaric: I think it won't matter, because you'll be dead.
-
 Damon: But without the werewolf, he can't perform the ritual tonight, which means I would have bought her one month before the next full moon.
-
 Alaric: And you'll still be dead.
-
 Damon: Are you gonna help me or what?
-
 Alaric: What do you want me to do?
-
-Woods
-
-
-
-
 Elena: Where are we?
-
 Stefan: It's a surprise. Just a little bit longer.
-
 Elena: I'm not a vampire yet, you know. My legs still get tired.
-
 Stefan: Ready to talk about how you're feeling about all this?
-
 Elena: Uh...this morning I was wondering if I would live or die, and now...I'm going to be a vampire. I...I don't really know how I'm feeling.
-
-
-
-
 Elena: God, this is beautiful.
-
-
-
-
 Stefan: I think you do know how you feel. I just want you to know that it's okay to tell me.
-
 Elena: I can't. Stefan, I just...I can't talk about it.
-
 Stefan: Well, if you don't want to, that's your choice. Today's about you. But...It's a long way to the top. Let's go. You never know what might come up.
-
 Elena: We're climbing all the way up to the top?
-
 Stefan: Oh, yeah.
-
 Elena: Well, can't you do one of your super power vampire jumpy things?
-
 Stefan: No, it's your last day as a human. Why cheat now?
-
-
-
-
-Alaric's Residence
-
-
-
-
 Katherine: Look who's dumb enough to come back.
-
 Alaric: Well, somebody had to invite him in. Damon. Would you like to, uh, come in?
-
-
-
-
 Katherine: Are you trying to get me killed?
-
-
-
-
 Damon: I gave you vervain, now I'm here to collect. I got it from here, Rick.
-
 Alaric: You sure?
-
 Damon: Yeah, only one of us needs to get blamed for this. Get back in the house. Keep Elena from handing herself over.
-
 Alaric: Okay.
-
-
-
-
 Katherine: Get blamed for what?
-
 Damon: I need to know where Klaus is keeping his werewolf.
-
 Katherine: Why? What are you going to do?
-
 Damon: Dead werewolf equals no ritual.
-
 Katherine: No. You can't interfere, Damon. Klaus will kill you and everyone you've ever met.
-
 Damon: I just need to delay this thing.
-
 Katherine: No. No way.
-
 Damon: You should like this. It's going to buy another month of your pathetic life.
-
 Katherine: Right. Except that I'm not the vampire he's planning on sacrificing.
-
 Damon: What?
-
 Katherine: Yeah. He's got Caroline Forbes and Tyler Lockwood. Therefore, I'm in the clear.
-
 Damon: And where'd he get that idea from?
-
-
-
-
 Katherine: Hey! Hey, hey, hey, I'm just trying to stay alive long enough to get myself out of here.
-
 Damon: What if I told you Elena had vampire blood in her system?
-
 Katherine: What?!
-
 Damon: Imagine how much fun that will be competing with Elena for Stefan's love for, I don't know, forever.
-
 Katherine: The tomb. He's got them in the tomb.
-
 Damon: Thank you.
-
-
-
-
-Fell's Church Tomb
-
-
-
-
 Caroline: Tyler?
-
 Tyler: You all right?
-
 Caroline: Yeah. I think so.
-
-
-
-
 Tyler: I already tried.
-
-
-
-
 Caroline: Those witches vervained me.
-
 Tyler: Who were they?
-
 Caroline: I think they're with Klaus.
-
 Tyler: Who the hell is Klaus?
-
-
-
-
 Caroline: Tyler...You shouldn't have come back here.
-
-Woods
-
-
-
-
 Elena: I guess Bonnie will have to make me a daylight ring.
-
 Stefan: Yeah, piece of cake.
-
 Elena: And I'll never be able to watch "Bambi" again.
-
 Stefan: I definitely wouldn't recommend doing that.
-
 Elena: What's the best part about being a vampire?
-
 Stefan: Ahh. You feel like you could do anything. Be anyone. Beautiful things are more beautiful. Everything's heightened, you just live more intensely, love more powerfully.
-
 Elena: And the worst?
-
 Stefan: Ah, you know the worst.
-
 Elena: Aside from the blood?
-
-
-
-
 Stefan: Anger becomes rage. When you're sad, you're in despair. Grief. Loss. It can cripple you. That's why so many of us turn our emotions off. It just becomes...Too overwhelming. You know, for a while, for me, the good just wasn't worth the bad.
-
 Elena: How long before you learned to handle both?
-
 Stefan: Well, I'm still trying. Every day. What else?
-
 Elena: Let's just keep going. We're not even halfway to the top.
-
-
-
-
-Alaric's Residence
-
-
-
-
 Katherine: Everything okay?
-
 Klaus: What have you been doing?
-
 Katherine: Making coffee. Do you want some?
-
-
-
-
 Klaus: Tell me what you've been doing.
-
 Katherine: Making coffee.
-
-
-
-
 Klaus: Wait. Take off your bracelet.
-
-
-
-
 Klaus: Now, I want you...to walk over to the window and stand in the sunlight.
-
 Katherine: But I'll burn.
-
 Klaus: You don't have a choice.
-
-
-
-
 Klaus: That's enough.
-
-
-
-
 Klaus: Guess I was wrong. All right, then. I need you to do something for me.
-
-Fell's Church Tomb
-
-
-
-
 Maddox: Which one are you trying to save? The blond, or the wolf? Did you really think Klaus would leave them unprotected?
-
 Damon: Wishful thinking.
-
-
-
-
 Damon: What are you doing here?
-
 Matt: Where's Caroline?
-
 Damon: Listen, man. Not a good time to play the hero.
-
-
-
-
 Matt: Where is she? And what did he do to her?
-
-
-
-
 Damon: I'm just here to rescue her.
-
-
-
-
 Damon: You're lucky I already screwed up once today or you'd be dead.
-
-
-
-
-
-
 Tyler: The whole sun and moon curse is fake?
-
 Caroline: That's what Elena learned. Klaus still needs to do the sacrifice, but it's just not for that.
-
 Tyler: And you think that's why they grabbed us? For the sacrifice.
-
 Caroline: Yes.
-
 Tyler: He's going to kill us?
-
 Caroline: I think so. Yes.
-
 Tyler: This whole time I've been gone, Jules has been helping me come to terms with what I am. How to deal with it. I guess none of it matters anymore.
-
 Caroline: Why didn't you say good-bye? You just left.
-
 Tyler: You want to talk about this now?
-
 Caroline: Well, if we're going to die, I might as well know the truth. Why did you leave me?
-
 Tyler: I knew you hated me. I thought you deserved better than having someone like me in your life.
-
 Caroline: I was hurt. You know, you turned your back on me when I needed you. But...I could never hate you, Tyler.
-
-
-
-
 Caroline: Damon?
-
-
-
-
 Damon: Your boyfriend's outside with a rifle loaded with wooden bullets. You have some explaining to do.
-
 Caroline: What, Matt?
-
 Tyler: Matt knows about you?
-
 Caroline: No, I...
-
 Damon: Shh. Tomorrow's problem.
-
-
-
-
 Damon: Let me just get you out of here.
-
 Caroline: Wait, Damon No! I'm not leaving without him.
-
 Damon: Ohhh. It's getting dark soon.
-
-
-
-
 Damon: How fast can you get the hell away from here?
-
 Tyler: I need to get to my family's cellar. I can lock myself up.
-
 Caroline: I'll help.
-
-
-
-
 Damon: Don't make me regret this.
-
-
-
-
-Woods
-
-
-
-
 Elena: We made it! Ahh.
-
 Stefan: That's nothing, if you've climbed Mt. Everest.
-
 Elena: Nobody likes a bragger, Stefan.
-
-
-
-
 Elena: Oh, wow.
-
 Stefan: Yeah. Hey, you can say it.
-
-
-
-
 Elena: Say what?
-
 Stefan: The thing you've been wanting to say, but...Been afraid of how it'll make me feel.
-
 Elena: There's nothing I can say, Stefan. It's not going to change anything.
-
 Stefan: Might make you feel better. Look, I know this isn't the first time you've thought about it. Drinking vampire blood to survive. I mean, I know I've thought about it a hundred times.
-
 Elena: And before all this with Klaus, did you think about it then?
-
 Stefan: Of course I did. Elena...If it were my choice, I'd want to be with you forever.
-
 Elena: Why have you never brought it up?
-
 Stefan: 'Cause I knew if it was an option, you would have. It would be selfish for me to ask you.
-
 Elena: Didn't stop Damon.
-
 Stefan: He shouldn't have done what he did. He did it because he loves you.
-
 Elena: But he did this to me, Stefan, which means he doesn't really know what love is. And to be honest, I don't know if I do. I'm seventeen years old. How am I supposed to know any of this yet?
-
-
-
-
 Elena: I know that I love you, Stefan. I know that. But my future? Our lives together? Those were things I was supposed to deal with as they came along. I was supposed to grow up.
-
-
-
-
 Elena: Decide if I want to have kids and start a family. Grow old. I was supposed to have a lifetime of those choices, and...now? That's all gone.
-
 Stefan: Hey, say it.
-
 Elena: I don't want to be a vampire, Stefan. I never wanted to be one.
-
 Stefan: I know. It's okay.
-
-
-
-
-Fell's Church Tomb
-
-
-
-
 Caroline: Hey, Matt!
-
-
-
-
 Caroline: Hey. Did you hit him?!
-
 Damon: Did you already forget about the part with the gun and the wooden bullets?
-
-
-
-
 Caroline: Tyler? Tyler?
-
 Tyler: It's starting.
-
 Damon: Grab boy wonder and let's go.
-
 Caroline: Come on.
-
-
-
-
-Salvatore Boarding House
-
-
-
-
 Elena: Thanks for today.
-
-
-
-
 Klaus: You got me all nervous. I thought maybe you'd done something stupid. You ready, my dear?
-
 Elena: I'm ready.
-
-
-
-
 Stefan: No.
-
 Klaus: I wouldn't. No reason for you to die, too.
-
-
-
-
 Elena: No. Stefan, hey, hey, it's fine, it's fine. I'll go. No one needs to get hurt. There's no reason for you to get hurt.
-
-
-
-
 Elena: I love you.
-
 Stefan: I love you.
-
-
-
-
 Elena: Close your eyes. Close your eyes.
-
-
-
-
-
-
 Alaric: There you are. I got here, the house was empty.
-
 Stefan: Where's Damon?
-
-Woods
-
-
-
-
 Matt: What's happening? Is he okay?
-
 Damon: He better not wolf out on us.
-
-
-
-
 Damon: Bad time, little bro.
-
 Stefan: What the hell are you doing?
-
 Damon: Saving the day. I figured you'd understand. Just tell Elena to stay put.
-
 Stefan: She's already gone, Damon.
-
 Damon: What?
-
 Stefan: Klaus came. He took her.
-
 Damon: I'll take care of it.
-
-
-
-
 Matt: Tyler!
-
 Tyler: I don't know if I can hold it off. Get out of here.
-
 Caroline: Tyler, it'll be okay.
-
 Tyler: Go!
-
 Caroline: You've got time. We're almost there, just...
-
 Tyler: It's happening faster.
-
 Caroline: Tyler, it's okay.
-
-
-
-
 Caroline: Damon...
-
 Damon: I'm fine.
-
 Tyler: Get out of here!
-
 Damon: Get to the Lockwood cellar. If it held him in, it'll keep him out. If it doesn't...use these.
-
-
-
-
 Damon: It'll buy you a couple seconds. Go. Go!
-
-
-
-
-Alaric's Residence
-
-
-
-
 Klaus: Where's Maddox? He should be back by now.
-
 Katherine: I don't know.
-
-
-
-
 Katherine: What are you doing? Where's Elena?
-
 Klaus: I sent her off with Greta.
-
-
-
-
 Klaus: It's almost time.
-
-
-
-
 Klaus: I wasn't aware you'd been invited in.
-
-
-
-
 Damon: I've come here to tell you that you have to postpone the ritual.
-
 Klaus: Didn't we already have this conversation?
-
 Damon: Yeah, but that was before I rescued your werewolf and vampire and killed your witch.
-
-
-
-
 Klaus: Excuse me?
-
-
-
-
 Damon: And you can kill me for it. I don't care. It was all...me.
-
 Klaus: Katerina, give us a moment.
-
-
-
-
 Klaus: I've heard about you. The crazy, impulsive vampire in love with his brother's girl. I knew one of you would try to stop me. It was a just a 50/50 guess on who.
-
-
-
-
 Klaus: The nice thing about werewolves is they tend to travel in packs. Need a closer look?
-
-
-
-
 Damon: Jules.
-
 Klaus: When you spend a thousand years trying to break a curse...You learn a thing or two. First rule...always have a backup. Backup werewolf. Backup witch.
-
 Damon: Backup vampire.
-
 Klaus: I've got that covered, too.
-
-Lockwood Cellar
-
-
-
-
 Caroline: Come on, down here.
-
 Matt: Is that going to hold?
-
 Caroline: No.
-
-
-
-
 Caroline: Help me with the gate. Help me with the gate!
-
-
-
-
 Caroline: Tyler? It's me. It's Caroline. Tyler?
-
-
-
-
-Alaric's Residence
-
-
-
-
 Katherine: Hey. Damon. Hey. Damon!
-
-
-
-
 Damon: Ahh. What the hell happened?
-
 Katherine: He's gone. He went to do the ritual. I'm sorry. I had to. He would have known that I was on vervain if I didn't do it.
-
 Damon: Ahh. Do what?
-
 Katherine: Klaus. He made me call her to lure her out. He needed another vampire.
-
 Damon: Who did you call?
-
-
-
-
 Damon: Who did you call, Katherine?
-
-Woods
-
-
-
-
 Elena: Where are we going?
-
 Greta: This way.
-
 Elena: You're Luka's sister, aren't you? I heard about you. He and your father were looking for you.
-
 Greta: Well, they were wasting their time. I wasn't lost.
-
-
-
-
 Elena: God, I can't see anything.
-
-
-
-
 Elena: Jenna? Jenna, Jenna! Jenna? Hey, hey, Jenna! Jenna!
-
-
-
-
 Elena: Oh, my God. No. Jenna! No!
-
-
-
-
 Elena: He killed her? Why? I did everything that he asked.
-
-
-
-
 Greta: She's not dead. She's in transition.
-
-Alaric's Residence
-
-
-
-
 Damon: Should have used me. Why didn't he use me?
-
 Katherine: He couldn't. Damon, he said you were as good as dead.
-
 Damon: What does that even mean?
-
 Katherine: What does that mean?
-
-
-
-
 Katherine: What is this, Damon?
-
 Damon: It's a werewolf bite.
-
-See More
-
-
-
-This transcript outlines dialogue of a copyrighted television program. As such, falls under the same copyright laws as the program it is taken from. It is believed that the use of such copyrighted material, owned by the companies or corporations that produced it, The CW Television Network, will be used under fair use in the United States and fair dealing in the United Kingdom. It should therefore be considered the intellectual property of both corporations. Other third parties may hold intellectual rights over this image as well.
-
-The Vampire Diaries, The Originals, Legacies, The Originals: The Awakening and The Vampire Diaries: A Darker Truth are all © of The CW and it's parent companies, Warner Brothers and CBS.
-
-
-The Vampire Diaries TranscriptsSeason 11 • 2 • 3 • 4 •  5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 21 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 31 • 2 • 3 • 4 • 5 • 6 • 7 • 8 •  9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 41 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22 • 23Season 51 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 61 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 71 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 81 • 2 • 3 • 4  • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16
+Originals: The Awakening and The Vampire Diaries: A Darker Truth are all © of The CW and it's parent companies, Warner Brothers and CBS.
