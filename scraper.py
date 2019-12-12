@@ -19,18 +19,18 @@ def soupify():
 
     #get all urls
     for a in soup.find_all('a', href=True):
-        print ("Found the URL:", a['href'])
         transcripts_urls.append(a['href'])
 
     return transcripts_urls
 
 def get_transcripts(transcripts_urls):
 
+    #loop through all transcript urls
     for transcript in transcripts_urls:
         r = requests.get(f'https://vampirediaries.fandom.com{transcript}')
 
-        # write-html.py
-        with open(f'transcript_webpages/{transcript}.html', 'w') as f:
+        #write webpage to html file
+        with open(f'transcript_webpages/{transcript}.html', 'w+') as f:
             f.write(r.text)
 
 
