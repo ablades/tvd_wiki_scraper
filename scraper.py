@@ -26,11 +26,13 @@ def soupify():
 def get_transcripts(transcripts_urls):
 
     #loop through all transcript urls
+    episode_count = 0
     for transcript in transcripts_urls:
+        episode_count += 1
         r = requests.get(f'https://vampirediaries.fandom.com{transcript}')
 
         #write webpage to html file
-        with open(f'transcript_webpages/{transcript}.html', 'w+') as f:
+        with open(f"Episode-{episode_count}.html", 'w+') as f:
             f.write(r.text)
 
 
