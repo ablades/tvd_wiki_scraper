@@ -43,10 +43,12 @@ Homecoming
 
 
 
-Contents[show]
+Contents
+
 Old Lockwood Cellar
 
-[Elena and Alaric are walking through the tunnel in the cellar.]
+
+
 
 Elena: So, the Lockwoods really have no idea that these tunnels are underneath their property?
 
@@ -54,17 +56,21 @@ Alaric: Careful where you shine that thing. Bats hate the light.
 
 Elena: Wait, what?
 
-[Damon secretly comes up and whispers behind her.]
+
+
 
 Damon: Elena!
 
-[She turns around and sees him.]
+
+
 
 Damon: Boo!
 
-[She jumps from fright.]
 
-Elena: [gasps] Ah! God, Damon!
+
+
+Elena: 
+ Ah! God, Damon!
 
 Damon: Scaredy-cat!
 
@@ -76,19 +82,25 @@ Damon: No. Seems even the ancient Lockwoods were anti-vampire.
 
 Elena: What do you mean, ancient?
 
-Damon: [gestures forward] See for yourself.
+Damon: 
+ See for yourself.
 
-[They walk further into the tunnels, to the cave with drawings on the walls.]
+
+
 
 Damon: Well, this is as far as I get to go.
 
-[Elena enters the chamber and shines her flashlight on the walls with the drawings.]
+
+
 
 Elena: What is all this?
 
-Alaric: Well, as far as I can tell, it's a story. In simple, archaeological terms, it's a really, really old story. [points at the wall] That right there, is the moon cycle. [points at another drawing] A man, a wolf.
+Alaric: Well, as far as I can tell, it's a story. In simple, archaeological terms, it's a really, really old story. 
+ That right there, is the moon cycle. 
+ A man, a wolf.
 
-Elena: [staring at the drawings] A werewolf.
+Elena: 
+ A werewolf.
 
 Damon: Yeah, it's the "Lockwood Diaries: Pictionary-Style."
 
@@ -110,7 +122,8 @@ Elena: Klaus.
 
 Alaric: And Elijah...and Rebekah.
 
-[Flashback to the 900s. Rebekah is using a knife to carve her name in Runic into the cave wall. Klaus is standing behind her, watching while holding a burning wooden torch.]
+
+
 
 Klaus: Rebekah, let me have at it!
 
@@ -126,21 +139,26 @@ Rebekah: That is because you always tell him.
 
 Klaus: I cannot help it...he frightens me.
 
-Rebekah: He frightens us all. That is why we stick together as one, always and forever. Right, traitor? [smiles.]
+Rebekah: He frightens us all. That is why we stick together as one, always and forever. Right, traitor? 
 
-Klaus: Right. [smiles back.]
+
+Klaus: Right. 
+
 
 Rebekah: Here. You finish it. I am to help mother with the meal.
 
 Klaus: Yes, go tend to dinner, and leave the blades to the men, little sister.
 
-[Rebekah retorts by slamming the knife blade-side down into his palm, slicing it open.]
 
-Klaus: [winces] Agh, Bekah!
+
+
+Klaus: 
+ Agh, Bekah!
 
 Rebekah: It's just a little blood. Be a man about it.
 
-[Back to present time.]
+
+
 
 Elena: These are the names of the Original Family?
 
@@ -160,19 +178,23 @@ Elena: Mikael...Mikael, as in, the vampire hunter who knows how to kill Klaus?
 
 Damon: Yep. I now like to call him "Papa Original".
 
-[Alaric takes photos of the drawings.]
+
+
 
 Alaric's Residence
 
-[Alaric is looking at the photos on his desk, while Damon is helping Elena with her combat training.]
+
+
 
 Alaric: These images tell a story....to learn the story, you have to decipher these images.
 
-[Damon effortlessly disarms Elena, who tries to stake him.]
+
+
 
 Damon: Sloppy!
 
-[Elena grabs the stake.]
+
+
 
 Elena: Shut up! I'm new at this.
 
@@ -180,9 +202,11 @@ Damon: "Ghost of Christmas Past" Mason Lockwood set up the cave and led us to a 
 
 Elena: Yeah, but doesn't Mikael have a weapon?
 
-Damon: Yes. Which probably means the wall will lead us to Mikael, who we have already found...and lost. [He overwhelms Elena again] Bang! You're dead!
+Damon: Yes. Which probably means the wall will lead us to Mikael, who we have already found...and lost. 
+ Bang! You're dead!
 
-[He goes in to nibble on Elena's neck. She pushes him away playfully and walks over to Alaric at the desk.]
+
+
 
 Alaric: These images at the very least might tell us what that weapon is.
 
@@ -194,7 +218,8 @@ Elena: Well, if the story is about the Original Family living here,  then we go
 
 Mystic Falls High School
 
-[Rebekah is with the rest of the cheerleading squad at practice, doing a series of gymnastic moves, when Elena walks up to her.]
+
+
 
 Rebekah: You! Goody.
 
@@ -204,15 +229,18 @@ Rebekah: About what? Stefan? Don't worry, I'm off him until he starts treating m
 
 Elena: Actually, I'd rather talk about this.
 
-[She holds up a photo of Rebekah's name written in Runic on the cave wall.]
+
+
 
 Elena: I'm curious why you and Klaus have spent a thousand years running from your father.
 
-Rebekah: I should get back to the girls. Homecoming's right around the corner. [turns to leave.]
+Rebekah: I should get back to the girls. Homecoming's right around the corner. 
+
 
 Elena: Well then, maybe I'll ask Mikael when we wake him.
 
-Rebekah: [stops and turns around] You're bluffing! You don't know where he is. No one does.
+Rebekah: 
+ You're bluffing! You don't know where he is. No one does.
 
 Elena: So, then who's rotting in that old cemetery in Charlotte?
 
@@ -226,51 +254,67 @@ Elena: Why don't you want me to wake him?
 
 Rebekah: I need to get back to the girls.
 
-[Rebekah turns and walks back towards the squad, shaken by what she's heard.]
-[Flashback to ancient times.]
 
-Rebekah: [sees her brothers Niklaus and Elijah several yards away] Come on Henrik, our brothers are fighting again!
 
-[Klaus and Elijah are in the middle of a sword fight. Rebekah and Henrik run towards them to watch.]
+
+
+
+Rebekah: 
+ Come on Henrik, our brothers are fighting again!
+
+
+
 
 Elijah: Oh look, our sister has arrived to watch my fast approaching victory!
 
-Klaus: On the contrary, Elijah...[swings the sword and cuts Elijah's belt off his waist.] She's come to laugh at you!
+Klaus: On the contrary, Elijah...
+ She's come to laugh at you!
 
-[Esther and Mikael approach their children as the children all laugh together.]
+
+
 
 Esther: Relax, Mikael. Niklaus means well.
 
 Mikael: That is precisely my problem.
 
-[Mikael approaches the boys. Suddenly everyone stops laughing. Mikael takes Elijah's sword and turns to Klaus.]
+
+
 
 Mikael: So, why don't you teach me that trick, young warrior?
 
-[He begins to swordfight with Klaus.]
 
-Klaus: [dodges Mikael's sword] Father, we were just having fun.
 
-Mikael: [continues to swing his sword at Klaus] We fight for our survival! And you find time for fun?! I want to have fun! Teach me! Come on!
+
+Klaus: 
+ Father, we were just having fun.
+
+Mikael: 
+ We fight for our survival! And you find time for fun?! I want to have fun! Teach me! Come on!
 
 Klaus: Father, it was nothing...
 
-[Mikael disarms Klaus without effort and slams him on his back on the ground. He sets the sword at Klaus's throat.]
+
+
 
 Mikael: You are foolish and impulsive, my boy. What? No more laughter?
 
-Esther: [Sternly.] You've made your point, Mikael!
+Esther: 
+ You've made your point, Mikael!
 
-[Mikael stabs the sword into the ground; it sticks right next to Klaus's head.]
+
+
 
 Mikael: Some days, it's a miracle you're still alive, boy.
 
-[Mikael gets up and leaves.]
+
+
 
 Alaric's Residence
 
-[Alaric is looking at the photos. He writes "vampire" on a post-it note and places it on one of the pictures. He picks up another picture and compares it to the one he just stuck the post-it note on. He sees that the other picture has a circle with a squiggly outline that looks more like a sun, so he switches the "vampire" post-it to the other picture and writes "werewolf" on another post-it and places it onto the first picture.]
-[Outside the apartment, Elena is on the phone with Damon. She's walking up the stairs to Alaric's loft. Damon is walking down the stairs at the city jail.]
+
+
+
+
 
 Elena: She's going to tell me. She's scared of him, Damon. I saw her face. I just have to engage in a little "mean girl" power struggle first.
 
@@ -278,23 +322,28 @@ Damon: Well, make sure she doesn't power struggle you into a wheelchair.
 
 Elena: I've got this, Damon. If we can figure out a way to kill Klaus, Stefan will be free of his compulsion. So...how does he look?
 
-[Damon looks through the cell door window at Stefan and sees him tied in the chair and his head bowed as he sleeps.]
+
+
 
 Damon: Mmm...pasty and pouty.
 
-Elena: He'll have to get over it. Call me later. [Hangs up and turns to Alaric.] Rebekah will come around.
+Elena: He'll have to get over it. Call me later. 
+ Rebekah will come around.
 
 Alaric: You're sure about that? I mean a thousand-year-old vampire, I'm sure, has learned the art of patience.
 
-[While he speaks, Elena receives a text message: "Come over for a chat. Rebekah"]
+
+
 
 Elena: She's a thousand-year-old vampire, who's joined the cheerleader squad...There is a whole different set of rules that play here, Ric. I got this.
 
-[She holds up the phone to show him the text.]
+
+
 
 City Jail
 
-[Damon enters Stefan's cell. Stefan raises his head and looks at Damon.]
+
+
 
 Stefan: You know, if you two are gonna keep me locked in here for the next decade, I think we can skip the routine visits.
 
@@ -312,17 +361,20 @@ Stefan: You know, Klaus may wanna keep Elena alive, but that doesn't mean she's 
 
 Damon: Liar, liar pants on fire, brother. Klaus compelled you to protect Elena, and if you thought for even a second that she was in danger, you'd be working a lot harder.
 
-Stefan: [sarcastically] You got me. You got me!
+Stefan: 
+ You got me. You got me!
 
 Damon: Yep.
 
-Stefan: You got me. You're good. Congratulations! You can go now. [stares at Damon.]
+Stefan: You got me. You're good. Congratulations! You can go now. 
+
 
 Damon: You really have given up.
 
 Stefan: Actually, this is my happy face...
 
-[Damon considers this for a moment, and then breaks the chains binding his hands and feet, freeing Stefan from the cell.]
+
+
 
 Stefan: What are you doing?
 
@@ -330,19 +382,23 @@ Damon: Screw this Lexi-plan. I think we could both use a drink.
 
 Salvatore Boarding House
 
-[Elena enters the house and hears music, while Rebekah walks into the foyer with champagne glasses.]
 
-Rebekah: [cheerfully] Hey! What's up?
+
+
+Rebekah: 
+ Hey! What's up?
 
 Elena: You invited me over? To talk?
 
 Rebekah: All right girls, have at it!
 
-[Six girls in various jewel-toned colored homecoming dresses walk in the room.]
+
+
 
 Rebekah: Okay, now twirl please.
 
-[They twirl and show off the dresses.]
+
+
 
 Elena: You compelled your own private runway show?
 
@@ -350,23 +406,28 @@ Rebekah: I need a Homecoming dress. So, what do you think? Pick one.
 
 Elena: I'm not here to help you shop. I'm here to talk about why you don't want me to wake up Mikael.
 
-[Rebekah rushes to one of the girls, grabs her neck and vamps out.]
+
+
 
 Rebekah: I said "pick one", Elena.
 
 Elena: The...red one.
 
-Rebekah: There. It wasn't so hard, was it? [to the girls] Go away. Remember nothing.
+Rebekah: There. It wasn't so hard, was it? 
+ Go away. Remember nothing.
 
-[The girls leave and she picks up her champagne glass and walks to Elena.]
+
+
 
 Rebekah: You do not threaten me. You'll learn what I allow you to learn. Is that clear?
 
-[Elena nods. Rebekah walks past her and Elena turns and watches her.]
+
+
 
 Alaric's Residence
 
-[Somebody knocks on Alaric's door then opens it. It's Bonnie and she enters.]
+
+
 
 Bonnie: Hey there!
 
@@ -378,37 +439,46 @@ Alaric: Yeah, great! Uh, I'm sorry the place is such a mess. I'm obsessed...
 
 Bonnie: (Holding up Elena's necklace.) I brought you the necklace that wouldn't die.
 
-Alaric: Ahh, that's great. [looks at Bonnie, who looks unhappy] You okay?
+Alaric: Ahh, that's great. 
+ You okay?
 
 Bonnie: Been better...
 
-Alaric: Listen, Jeremy is an idiot. And I know this with certainty, because I was once a Jeremy. Trust me, we learn...eventually...[he holds up one of the photos] So, I've been staring at this image all day, wondering why it looked so familiar. [holds up the necklace, whose charm is the same shape as the drawing] I was right.
+Alaric: Listen, Jeremy is an idiot. And I know this with certainty, because I was once a Jeremy. Trust me, we learn...eventually...
+ So, I've been staring at this image all day, wondering why it looked so familiar. 
+ I was right.
 
-[He holds up the necklace pendant next to the photo.]
+
+
 
 Bonnie: It's the same design.
 
 Alaric: So, your grandmother said this necklace belonged to the witch that put the hybrid curse on Klaus, right? Well, this symbol is repeated all across the wall. I've been trying to figure out what it meant. And now I know...
 
-[He writes something on a post-it, sticks it to the photo and shows Bonnie: the post-it says "witch."]
+
+
 
 Salvatore Boarding House
 
-[Rebekah opens the door to Stefan's room and enters. Elena stays at the doorway.]
+
+
 
 Rebekah: How fun is this...?
 
-[She starts opening drawers.]
+
+
 
 Elena: We shouldn't be here...
 
-Rebekah: 'Course we should! Come on, like you've never wanted to snoop. [holds up Stefan's underwear] Boxer briefs. A lot has changed since the twenties.
+Rebekah: 'Course we should! Come on, like you've never wanted to snoop. 
+ Boxer briefs. A lot has changed since the twenties.
 
 Elena: Are you gonna root through his stuff all night or are you gonna start to tell me your story?
 
 Rebekah: Ah...you really are no fun. What do you want to know?
 
-[Elena walks into the room.]
+
+
 
 Elena: Well, Elijah said that your father was a landowner in Europe. How did you guys end up here?
 
@@ -416,7 +486,8 @@ Rebekah (still going through Stefan's stuff): My parents had just started a fami
 
 Elena: So, how did you end up here? This part of the world hadn't even been discovered yet.
 
-Rebekah: [laughs] Not by anyone in your history books. But my mother knew the witch Ayana, who heard from the spirits of a mystical land where everyone was healthy...blessed by the gifts of speed and strength. That lead my family here, where we lived amongst those people.
+Rebekah: 
+ Not by anyone in your history books. But my mother knew the witch Ayana, who heard from the spirits of a mystical land where everyone was healthy...blessed by the gifts of speed and strength. That lead my family here, where we lived amongst those people.
 
 Elena: The werewolves?
 
@@ -426,11 +497,14 @@ Elena: You make it sound so normal.
 
 Rebekah: It was.
 
-[Flashback to the 900s.]
 
-Rebekah: [voiceover] Once a month our family retreated into the caves beneath our village. The wolves would howl through the night and by morning we'd return home...
 
-[We can see Rebekah looking at different sorts of necklaces/talismans hanging on a rope in Ayana's window. She touches one (Esther's necklace) and it burns her fingers.]
+
+Rebekah: 
+ Once a month our family retreated into the caves beneath our village. The wolves would howl through the night and by morning we'd return home...
+
+
+
 
 Rebekah: Ayana, you burned me!
 
@@ -438,37 +512,45 @@ Ayana: That is not yours to touch.
 
 Klaus: (Screaming outside.) Mother!!!
 
-Rebekah: [to Ayana] Is that Niklaus? Something is wrong.
+Rebekah: 
+ Is that Niklaus? Something is wrong.
 
-[Klaus is carrying the dead body of his little brother Henrik.]
+
+
 
 Rebekah: Henrik!
 
 Klaus: Mother!!!
 
-Rebekah: [voiceover] One full moon, Klaus and my youngest brother Henrik snuck out to watch the men turn into beasts. That was forbidden. Henrik paid the price...
+Rebekah: 
+ One full moon, Klaus and my youngest brother Henrik snuck out to watch the men turn into beasts. That was forbidden. Henrik paid the price...
 
 Esther: No, no!! What happened?
 
 Klaus: The wolves! I am sorry, I'm so sorry!
 
-Esther: [to Ayana] We must save him. Please, there must be a way!
+Esther: 
+ We must save him. Please, there must be a way!
 
 Ayana: The spirits will not give us a way, Esther. Your boy is gone.
 
-Esther: No! No!!! [clutches Henrik's body.]
+Esther: No! No!!! 
+
 
 Rebekah: And that was the beginning of the end of peace with our neighbors..
 
-[Back in Stefan's room.]
+
+
 
 Rebekah: And one of the last moments my family had together as humans.
 
-[Elena's phone vibrates, snapping them out of Rebekah's memories.]
+
+
 
 Rebekah: You better get that. That'll be Damon checking up on you.
 
-[Elena answers her phone.]
+
+
 
 Elena: Hello?
 
@@ -476,7 +558,8 @@ Damon: Hey!
 
 Elena: Damon, where are you?
 
-[Damon is in a bar where music is playing loudly.]
+
+
 
 Damon: No idea, but I'm pretty sure I'm overdressed...Still standing?
 
@@ -484,7 +567,8 @@ Elena: Yes, I'm fine, but I can't talk right now.
 
 Stefan: I'll be at the bar.
 
-Elena: [hears his voice] Is that Stefan?
+Elena: 
+ Is that Stefan?
 
 Damon: Yeah, I kinda went off a bit. Don't worry. I know what I'm doing.
 
@@ -492,31 +576,40 @@ Elena: Damon! How could you let him out?
 
 Bar
 
-[Damon and Stefan are in the bar.]
 
-Damon: I got this back, Elena. [he hangs up] What are we drinking?
 
-Stefan: Hopefully something a little bit warmer...and a little bit blonder...[eyes the blonde bartender behind the bar.]
 
-Callie: [approaches the brothers] Hi!
+Damon: I got this back, Elena. 
+ What are we drinking?
 
-Damon: Hello...[checks her name tag] Callie. I would love a shot of your best whiskey, and my brother here would love [he starts to compel her] a shot of you.
+Stefan: Hopefully something a little bit warmer...and a little bit blonder...
+
+
+Callie: 
+ Hi!
+
+Damon: Hello...
+ Callie. I would love a shot of your best whiskey, and my brother here would love 
+ a shot of you.
 
 Stefan: What's the catch, Damon?
 
 Damon: No catch, brother. Drink up. It's on me.
 
-[Stefan grabs Callie's wrist and bites her while Damon leans over to hide them.]
+
+
 
 Damon: Hi Callie.
 
-[Later, Damon and Stefan are playing quarters; Callie is sitting on Damon's lap.]
+
+
 
 Stefan (flipping a coin into the glass): Drink up brother!
 
 Damon (holding up an empty whiskey bottle): You get us a bottle of this?
 
-Callie: Yes, sir. [she leaves.]
+Callie: Yes, sir. 
+
 
 Damon: You been on this "bunny diet" for a better part of 50 years. So, how is it that "Saint Stefan", of all people, is good at a drinking game?
 
@@ -524,7 +617,10 @@ Stefan: Oh, the "bunny diet" gave me a lot of time to practice.
 
 Damon: Hmm...
 
-Stefan: Wallow in despair. [he flips a coin into the glass] Drown in guilt. [flips another coin into the glass] Regret my existence. [flips a third coin in a row into the glass]  It's precision born out of tragic boredom. Drink up, brother!
+Stefan: Wallow in despair. 
+ Drown in guilt. 
+ Regret my existence. 
+  It's precision born out of tragic boredom. Drink up, brother!
 
 Damon: All that effort wasted trying to tell you how boring you are, and now you finally agree with me?
 
@@ -532,43 +628,53 @@ Stefan: Damon, you are worse than Elena. Getting me drunk, brotherly bonding - w
 
 Damon: I happen to like the edge, Stefan! Your problem is your inability to resist falling over it. All or nothing, man. You can't just be.
 
-[Callie comes back with another bottle of whiskey and sits down on Damon's lap again.]
 
-Damon: Although, who am I to judge? [he flips a coin and lands in into the glass] Drink up, brother!
 
-[Damon holds Callie's arm out towards him.]
+
+Damon: Although, who am I to judge? 
+ Drink up, brother!
+
+
+
 
 Salvatore Boarding House
 
-[Rebekah is lying on the bed, going through one of Stefan's diaries.]
+
+
 
 Elena: Did you get your fill of snooping yet? Can we get on with the story?
 
-[Rebekah gets up; she picks up a photo of Elena and Stefan from a table.]
+
+
 
 Rebekah: Honestly, I don't get you two as a couple.
 
 Elena: Why would you? You don't know anything about who he really is.
 
-Rebekah: I know exactly who he is. He's a vampire. We're a predatory species. [leans close to Elena's face] We don't have time to care about humans and their silly little lives.
+Rebekah: I know exactly who he is. He's a vampire. We're a predatory species. 
+ We don't have time to care about humans and their silly little lives.
 
 Elena: Is that why you did that runway show earlier? 'Cause you don't care about the Homecoming Dance...You know what, I'm just gonna go.
 
-[She gets up.]
+
+
 
 Rebekah: You haven't even heard half the story.
 
 Elena: And you are not going to tell it. You're just bored and looking for someone to push around. Find someone else to play with...maybe you can compel yourself a friend.
 
-[Elena starts to leave.]
+
+
 
 Rebekah: The necklace wasn't Stefan's to give. It belonged to the Original Witch.
 
-Elena: [turns around] The one who put the hybrid curse on Klaus?
+Elena: 
+ The one who put the hybrid curse on Klaus?
 
 Rebekah: Not just the hybrid curse. She's the one who turned us into vampires.
 
-[Flashback to the 900s; Mikael, Esther and Ayana are standing in a room lit by a fire and torches.]
+
+
 
 Mikael: Please, Ayana! I implore you! You must call upon the spirits before the next full moon.
 
@@ -576,12 +682,15 @@ Ayana: I will not! It is a crime against nature.
 
 Esther: Ayana, we have already lost too much. We cannot lose any more...The spirits can help us find a way to protect our children.
 
-[Rebekah is eavesdropping from the next room.]
-[Back in Stefan's room.]
+
+
+
+
 
 Rebekah: I'm thirsty. Do you want a drink?
 
-[She goes down to the library with Elena following behind her.]
+
+
 
 Elena: So, vampirism was a form of protection?
 
@@ -595,7 +704,8 @@ Elena: Yeah, but why stay, if they were so afraid of the werewolves? Why not...l
 
 Rebekah: Pride...My father didn't want to run anymore. He wanted to fight and be superior to the wolves. Where they could bite, we had to bite harder. Where they had speed, we had to be faster. Agility, strength, senses...
 
-[Flashback to 900s; Mikael, Esther and Ayana continue talking in their home.]
+
+
 
 Mikael: Everything could be heightened. Our family could live forever...
 
@@ -605,11 +715,13 @@ Esther: Please, Ayana.
 
 Ayana: I will have no part in it.
 
-[Ayana leaves the home. Mikael closes the door and speaks to Esther.]
+
+
 
 Mikael: If she will not protect our family...then it is in your hands alone, my love.
 
-[Back to Elena and Rebekah.]
+
+
 
 Elena: In her hands? How could she do anything?
 
@@ -619,9 +731,11 @@ Elena: What?
 
 Rebekah: The witch of the Original Family. The Original Witch?
 
-[They enter the library.]
 
-Rebekah: [searching through shelves] Where do they keep their best vintage?
+
+
+Rebekah: 
+ Where do they keep their best vintage?
 
 Elena: But if your mother was a witch, then...
 
@@ -631,40 +745,64 @@ Elena: How did you turn?
 
 Rebekah: She called upon the sun for life, and the ancient white oak tree, one of nature's eternal objects, for immortality. That night, my father offered us wine laced with blood. And then he drove his sword through our hearts.
 
-Elena: [stunned, whispering] He killed you?
+Elena: 
+ He killed you?
 
 Rebekah: And he wasn't delicate about it either.
 
-[She takes a bottle of wine, breaks its neck off with one motion of her hand and throws it into the fireplace.]
-[Back to the 900s; shortly after Mikael turned the children into vampires; Rebekah and Klaus awaken on the floor with blood on their clothes.]
 
-Klaus: [waking] Rebekah...
 
-Rebekah (gasping): Blood! What happened? [touches her nightgown where she had been stabbed.]
+
+
+
+Klaus: 
+ Rebekah...
+
+Rebekah (gasping): Blood! What happened? 
+
 
 Klaus: You will be alright! We will all be alright.
 
-[Mikael enters with a girl.]
 
-Klaus: [confused and scared] What are you doing?
 
-Mikael: We must finish what we started! [pushes the village girl onto her knees in front of them] You have to drink if you want to live. [he cuts the girl's wrist open.]
+
+Klaus: 
+ What are you doing?
+
+Mikael: We must finish what we started! 
+ You have to drink if you want to live. 
+
 
 Rebekah (voiceover): We had to drink more blood to complete the ritual.
 
-Mikael (to Rebekah): Drink! [she hesitates] Drink! [Klaus tries to stop him, but Mikael pushes him aside; Rebekah starts to drink the girl's blood] Drink!!! [she drinks deeply, and dark veins appear around her eyes.]
+Mikael (to Rebekah): Drink! 
+ Drink! 
+ Drink!!! 
 
-Rebekah (to Elena): It was euphoric! The feeling of power was indescribable...but the witch Ayana was right about the consequences. The spirits turned on us, and nature fought back...For every strength there would be a weakness...[Rebekah is seen in flashback being burned by sunlight through the window] The sun became our enemy. It kept us indoors for weeks...[Rebekah is seen walking around outside during the day, glancing at her daylight ring] And though my mother found a solution, there were other problems...[Villagers are seen running into their homes at the sight of Rebekah coming toward them] Neighbors who had opened their homes to us could now keep us out. [Rebekah is seen touching a vervain plant and getting burned by it] Flowers at the base of the white oak burned, and prevented compulsion. And the spell decreed that the tree that gave us life could also take it away...so we burned it to the ground. [The huge tree is seen enveloped in flames, as Mikael, Elijah, Rebekah and Klaus watch] But the darkest consequence was something my parents never anticipated...[Villagers are seen carrying a slaughtered pig tied to a rod to be spit-roasted] The hunger. Blood...had made us reborn and it was blood that we craved above all else. We could not control it...[Rebekah is seen staring at the villagers; she gasps and tries to resist, but then vamps out and hurries to them and kills them by feeding on them] And with that, the predatory species was born...
+
+Rebekah (to Elena): It was euphoric! The feeling of power was indescribable...but the witch Ayana was right about the consequences. The spirits turned on us, and nature fought back...For every strength there would be a weakness...
+ The sun became our enemy. It kept us indoors for weeks...
+ And though my mother found a solution, there were other problems...
+ Neighbors who had opened their homes to us could now keep us out. 
+ Flowers at the base of the white oak burned, and prevented compulsion. And the spell decreed that the tree that gave us life could also take it away...so we burned it to the ground. 
+ But the darkest consequence was something my parents never anticipated...
+ The hunger. Blood...had made us reborn and it was blood that we craved above all else. We could not control it...
+ And with that, the predatory species was born...
 
 Bar
 
-[Damon is dancing on a table with two girls. Stefan is feeding on Callie's neck, although it appears that he is kissing her. A woman stops and watches what Stefan is doing. Damon shows up and compels the woman to forget and move along, grabbing her scarf.]
 
-Damon: Nothing to see here! [she nods and leaves] Just run along, okay?
 
-Damon (to Stefan): Hey, hey ease up! Ease up. [He drags Stefan away.] She is giving us her employee discount. [He ties a scarf around her neck and compels her.] And now, just run along.
 
-[She walks away. They go to the bar and sit down and order drinks where a male bartender is working.]
+Damon: Nothing to see here! 
+ Just run along, okay?
+
+Damon (to Stefan): Hey, hey ease up! Ease up. 
+ She is giving us her employee discount. 
+ And now, just run along.
+
+
+
 
 Damon: Two more!
 
@@ -684,7 +822,8 @@ Stefan: Damon, he can't be killed.
 
 Mikael: Maybe I can help with that.
 
-[Mikael walks up behind them.]
+
+
 
 Mikael: The Salvatore boys, I presume?
 
@@ -700,24 +839,30 @@ Elena: Yeah. Elijah told me this part of the story. Your mother had had an affai
 
 Rebekah: She tried to make it right. She put the hybrid curse on Nik to suppress his werewolf side, and then she turned her back on him. But Mikael's greatest weakness as a human was his pride. As a vampire, that was magnified. He went on a rampage and killed half the village. Then he came home and killed her.
 
-Elena: [stunned, whispering] Mikael killed your mother?
+Elena: 
+ Mikael killed your mother?
 
 Rebekah: He said she broke his heart so he would break hers. He tore it from her chest as Nik watched.
 
-[Flashback to just after they were turned. Klaus buries their mother as Rebekah watches.]
+
+
 
 Rebekah: Afterwards, my father took off in a rage, and the rest of my family scattered. Nik stayed, so he could help me bury her. He knew I had to say goodbye to my mother.
 
-[Rebekah and Klaus stand side by side at the grave.]
+
+
 
 Rebekah: I know you think she hated you, Niklaus, but she did not. She was just afraid. I'm sorry she turned her back on you. I will never do that.
 
-Elijah: [walks toward them and joins them] Nor will I.
+Elijah: 
+ Nor will I.
 
 Rebekah: We stick together as one. Always and forever.
 
-[Rebekah, Klaus, and Elijah all hold hands in a circle around the grave.]
-[Back to the Salvatore house.]
+
+
+
+
 
 Elena: Always and forever...even though he locked you in a coffin for ninety years?
 
@@ -737,7 +882,8 @@ Rebekah: Do what you need. Wake Mikael at your own peril. But make no mistake, i
 
 Bar
 
-[Mikael is interrogating Stefan.]
+
+
 
 Mikael: Is Klaus out of the country?
 
@@ -753,31 +899,39 @@ Stefan: I'm compelled to do what he says, and he says to keep my damn mouth shut
 
 Damon: I really hope this game of twenty questions isn't your secret weapon.
 
-Mikael: You see, Damon...[he puts his hand on Damon's shoulder] I've been a vampire hunter longer than you've been alive. It's why I found you here. It's why I'm gonna find Niklaus.
+Mikael: You see, Damon...
+ I've been a vampire hunter longer than you've been alive. It's why I found you here. It's why I'm gonna find Niklaus.
 
 Damon: Well, Klaus has been running for about thousand years, so if you think you can get a work around here...
 
-[Mikael slams his hand into Damon's chest.]
 
-Mikael: Careful, Stefan. One move - and his heart's gone. [plunges his hand deeper] Now, where is Klaus? What's the trick question, Stefan? One twist and he's dead. Unless you don't care of course.
 
-Damon: [gasps] His emotions have been shut off. He can't care.
+
+Mikael: Careful, Stefan. One move - and his heart's gone. 
+ Now, where is Klaus? What's the trick question, Stefan? One twist and he's dead. Unless you don't care of course.
+
+Damon: 
+ His emotions have been shut off. He can't care.
 
 Mikael: Really? His link to Klaus is so strong that he will let his own brother die?  No ideas, hmm? Think, Stefan! I guess you're right. He's a dead end. And so are you, Damon.
 
-[Mikael jerks his hand in Damon's chest.]
+
+
 
 Stefan: Wait! I can bring him back. I can lure Klaus back to Mystic Falls.
 
-[Mikael takes his hand out of Damon's chest and wipes it off with a rag he takes from the counter.]
+
+
 
 Mikael: And there is our loophole. Just had to rile him up a bit. Get Klaus back to Mystic Falls, and I will gladly drive a stake through his heart. Fail, I'll drive it through yours.
 
 Old Lockwood Cellar
 
-[Alaric, Elena and Bonnie are in the cave with the drawings on the walls.]
 
-Alaric: We, uh, filled in what we could. [He sticks post-its to the different symbols] A Vampire, werewolf, slaughter, mayhem, etc.
+
+
+Alaric: We, uh, filled in what we could. 
+ A Vampire, werewolf, slaughter, mayhem, etc.
 
 Elena: That's the white oak tree that was used in the spell to create the vampires...which means that was when they burned down the tree, destroying the only way that they could be killed.
 
@@ -787,11 +941,13 @@ Elena: Mikael killed the witch by ripping out her heart. But...why is that one c
 
 Bonnie: We don't know. We haven't gotten that far.
 
-Elena: [looks as though she's made a revelation] Oh my god...Rebekah doesn't know the real story.
+Elena: 
+ Oh my god...Rebekah doesn't know the real story.
 
 Salvatore Boarding House
 
-[Rebekah is pouring herself a glass of scotch. Elena enters with photos of the cave drawings.]
+
+
 
 Rebekah: I thought I told you to leave. Twice.
 
@@ -803,7 +959,8 @@ Elena: He lied to you.
 
 Rebekah: And how do you know that?
 
-Elena: The cave where you carved your family's names is covered in symbols. [she shows Rebekah the photos ]The story of your family: how your parents arrived, how they made peace, the spell that turned them into vampires, and this. This is the symbol for hybrid. It's a combination of the werewolf and the vampire symbol. And this is the one for your mother.
+Elena: The cave where you carved your family's names is covered in symbols. 
+The story of your family: how your parents arrived, how they made peace, the spell that turned them into vampires, and this. This is the symbol for hybrid. It's a combination of the werewolf and the vampire symbol. And this is the one for your mother.
 
 Rebekah: Her necklace.
 
@@ -815,7 +972,8 @@ Elena: She put the curse on him, made it so that he would be the only one of his
 
 Rebekah: These mean nothing! They're just stupid drawings, done by stupid people who had no idea who my family was!
 
-[She takes the photos, tears them to pieces, and throws them into the burning fireplace.]
+
+
 
 Elena: Then why are you so upset?
 
@@ -823,15 +981,18 @@ Rebekah: Why are you doing this to me? I've done nothing to you!
 
 Elena: Klaus killed your mother. He has a hold on you, on me, on everyone. He has for a thousand years. We have to make it stop!
 
-[Rebekah grabs Elena by the throat and vamps out.]
+
+
 
 Rebekah: Shut up! Shut up! Don't talk anymore! Nothing!
 
-[She stops, calms down slightly, and lets go of Elena. She begins to gasp, falls onto her knees and starts to sob, while Elena looks at her sadly and guiltily.]
+
+
 
 Bar
 
-[Damon and Stefan are walking out of the bar.]
+
+
 
 Damon: I'll give you ten points for flair.
 
@@ -841,27 +1002,33 @@ Damon: Don't think you had to wait till the last second to have your breakthroug
 
 Stefan: I didn't have a break through, Damon.
 
-Damon: Oooo, Ooooo, my brother is about to die and I just had to save his life for the bajillionith time! Careful Stefan, your humanity is showing. [smiles.]
+Damon: Oooo, Ooooo, my brother is about to die and I just had to save his life for the bajillionith time! Careful Stefan, your humanity is showing. 
+
 
 Stefan: So you know what? You're right, Damon. You're right. You reminded me what my freedom felt like. And when we kill Klaus, I'll be free. Free to leave. See, I didn't do this for you, Damon. I did it for myself.
 
-Damon: [smirks] Sure, Stefan. Whatever you say...
+Damon: 
+ Sure, Stefan. Whatever you say...
 
-Stefan: Why are you doing this, huh? [grabs Damon's shoulders and shakes him] What do you want from me? Why is everybody trying to save me?
+Stefan: Why are you doing this, huh? 
+ What do you want from me? Why is everybody trying to save me?
 
 Damon: Because I have to, Stefan! Because you are in this mess with Klaus, because you saved my life. Because I owe you. And I can't just leave you in a cell to rot.
 
 Stefan: Aw, better be careful, brother. Your humanity is showing.
 
-[Damon punches Stefan in the face; Stefan is about to get up to retaliate when Damon pushes him down again and kicks him several feet away.]
+
+
 
 Salvatore Boarding House
 
-[Rebekah is still crying alone, kneeling on the floor of the library.]
+
+
 
 Gilbert Residence
 
-[Elena comes out of the bathroom next to her bedroom in her sleeping attire; she sees Damon lying on her bed.]
+
+
 
 Elena: Uh...Damon! Seriously?
 
@@ -875,31 +1042,41 @@ Elena: I'm not gonna yell at you.
 
 Damon: Why not? I went behind you back. Freed Stefan. And you know what? It backfired. He's an even bigger dick than ever...just now, he's a dick that's on our side.
 
-Elena: I'm not mad. I'm tired. I just...I want to go to bed. [starts to pull at her blankets to get Damon to get up, but he doesn't budge.]
+Elena: I'm not mad. I'm tired. I just...I want to go to bed. 
 
-Damon: [ignoring Elena] You know, I think Mikael's weapon is a stake, 'cause he mentioned something about it...
 
-[Elena realizes he's not going to move, and pulls open her blankets so she can lay down on the open side of the bed; Damon is still laying where he is.]
+Damon: 
+ You know, I think Mikael's weapon is a stake, 'cause he mentioned something about it...
+
+
+
 
 Elena: Well, they must have carved it from the white oak tree before they burned it down.
 
 Damon: So I was right. After all that, the wall lead us to Mikael.
 
-Elena: [sighs] Lead us to more than just that. I think I got Rebekah on our side, too.
+Elena: 
+ Lead us to more than just that. I think I got Rebekah on our side, too.
 
 Damon: Really? What 'd you learn from her?
 
-Elena: I learned, that she's just a girl. That she lost her mom too young, and she loves blindly and recklessly, even if it consumes her. [looks at Damon in the eyes for several moments before continuing] And when it's all said and done, there's nothing more important than the bond of family.
+Elena: I learned, that she's just a girl. That she lost her mom too young, and she loves blindly and recklessly, even if it consumes her. 
+ And when it's all said and done, there's nothing more important than the bond of family.
 
-[Damon turns to face her.]
+
+
 
 Damon: Well, you should tell that to my brother.
 
-Elena: [sighs again] I'm not mad at you for letting him out, Damon. I think that you're gonna be the one to save him from himself. It won't be because he loves me, [whispers] it'll be because he loves you. Can I tell you the rest tomorrow?
+Elena: 
+ I'm not mad at you for letting him out, Damon. I think that you're gonna be the one to save him from himself. It won't be because he loves me, 
+ it'll be because he loves you. Can I tell you the rest tomorrow?
 
-Damon: [nods and smiles softly] Sure.
+Damon: 
+ Sure.
 
-[Elena closes her eyes. Damon gazes at her.]
+
+
 
 See More
 
@@ -911,4 +1088,3 @@ The Vampire Diaries, The Originals, Legacies, The Originals: The Awakening and T
 
 
 The Vampire Diaries TranscriptsSeason 11 • 2 • 3 • 4 •  5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 21 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 31 • 2 • 3 • 4 • 5 • 6 • 7 • 8 •  9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 41 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22 • 23Season 51 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 61 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 71 • 2 • 3 • 4 • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22Season 81 • 2 • 3 • 4  • 5 • 6 • 7 • 8 • 9 • 10 • 11 • 12 • 13 • 14 • 15 • 16
-

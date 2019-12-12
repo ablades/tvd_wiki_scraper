@@ -122,6 +122,52 @@ def condense_txt():
 
         open(f'txt_transcripts/Episode-{i}.txt','w+').write('\n'.join(cleaned_txt))
 
+
+#remove brackets that describe actions
+def regex_brackets():
+
+    for i in range(1,172):
+        #get path for file
+        path = f"txt_transcripts/Episode-{i}.txt"
+
+        lines = open(path).read().splitlines()
+
+        cleaned_txt = list()
+
+        for line in lines:
+            cleaned_string = re.sub('(\[([^\]]+)])', '\n', line)
+            cleaned_txt.append(cleaned_string)
+
+        open(f'txt_transcripts/Episode-{i}.txt','w').write('\n'.join(cleaned_txt))
+
+
+        #Regex to capture character lines
+        
+
+#remove brackets that describe actions
+def regex_character_lines():
+
+    for i in range(1,172):
+        #get path for file
+        path = f"txt_transcripts/Episode-{i}.txt"
+
+        lines = open(path).read().splitlines()
+
+        cleaned_txt = list()
+
+        for line in lines:
+            cleaned_txt.append(''.join(re.findall('[A-z]*\:.*', line)))
+            
+            #cleaned_string = re.sub('(\[([^\]]+)])', '\n', line)
+            #cleaned_txt.append(cleaned_string)
+
+
+        cleaned_txt = list(filter(None, cleaned_txt))
+
+        
+        open(f'txt_transcripts/Episode-{i}.txt','w').write('\n'.join(cleaned_txt))
+
+
 if __name__ == "__main__":
 
     #gets all the transcripts form the table.html
@@ -142,4 +188,9 @@ if __name__ == "__main__":
     #changes the file extension to .txt for easier parsing
     #change_file_extenstion()
 
-    condense_txt()
+    #strips whitespace
+    #condense_txt()
+
+    #regex_brackets()
+    regex_character_lines()
+
