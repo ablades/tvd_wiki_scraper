@@ -2,16 +2,23 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from bs4 import BeautifulSoup
-import pandas as pd
 import re
 import os
+from bs4 import BeautifulSoup
 
-# website urls
-base_url = "https://vampirediaries.fandom.com/wiki/Category:Episode_Transcripts"
-#episode_url
-driver = webdriver.Opera()
-driver.get(videos_url)
-driver.implicitly_wait(100)
 
-//*[@id="mw-content-text"]/small[1]/i/table
+with open('table.html', 'r') as f:
+        words = f.read()
+
+html = words
+
+soup = BeautifulSoup(html)
+
+transcripts_urls = list()
+
+#get all urls
+for a in soup.find_all('a', href=True):
+    print ("Found the URL:", a['href'])
+    transcripts_urls.append(a['href'])
+
+print(transcripts_urls)
