@@ -55,6 +55,25 @@ def minimize():
         #print(soup)
 
 
+def minimize_again():
+    "transcript_webpages/Episode-1.html"
+    #take all html files 
+    for i in range(1,172):
+
+        #get path for file
+        path = f"transcript_webpages/Episode-{i}.html"
+        print(path)
+
+        #format file
+        soup = BeautifulSoup(open(path), "html.parser")
+        content = soup.find(id="mw-content-text")
+
+        with open(path, 'w') as f:
+            f.write(str(content))
+
+        #get all urls
+        #print(soup)
+
 
 
 
@@ -62,5 +81,7 @@ if __name__ == "__main__":
     #transcripts_urls = soupify()
 
     #minimize()
+
+    minimize_again()
 
     #get_transcripts(transcripts_urls)
