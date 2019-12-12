@@ -183,10 +183,13 @@ def character_dictionary():
         lines = open(path).read().splitlines()
 
         for line in lines:
-            line_list = line.split(" ")
+            new_line = line.replace(u'\xa0', ' ')
+            new_line = new_line.replace(':', ' ')
+            line_list = re.split(' ', new_line)
+
+            #print(line_list)
             #character name
-            character_name = line_list[0]
-            character_name = character_name[:-1]
+            character_name = line_list[0].lower().capitalize()
 
             sentence = ' '.join(line_list[1:])
 
