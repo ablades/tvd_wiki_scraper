@@ -6,6 +6,7 @@ import re
 import os
 from bs4 import BeautifulSoup
 import requests
+import glob
 
 def soupify():
     with open('table.html', 'r') as f:
@@ -51,6 +52,7 @@ def minimize():
         with open(path, 'w') as f:
             f.write(str(content))
 
+
         #get all urls
         #print(soup)
 
@@ -75,13 +77,53 @@ def minimize_again():
         #print(soup)
 
 
+def pull_text():
+    "transcript_webpages/Episode-1.html"
+    #take all html files 
+    for i in range(1,172):
+
+        #get path for file
+        path = f"transcript_webpages/Episode-{i}.html"
+        print(path)
+
+        #format file
+        soup = BeautifulSoup(open(path), "html.parser")
+        txt = soup.get_text()
+
+        with open(path, 'w') as f:
+            f.write(txt)
+
+        # with open(path, 'w') as f:
+        #     f.write(str(content))
+
+
+        #get all urls
+        #print(soup)
+
+
+def change_file_extenstion():
+    folder = '/Users/ablades/dev/MakeSchool/tvd_wiki_scraper/transcript_webpages'
+    for filename in glob.iglob(os.path.join(folder, '*.html')):
+        os.rename(filename, filename[:-4] + '.txt')
 
 
 if __name__ == "__main__":
+
+    #gets all the transcripts form the table.html
+    #get_transcripts(transcripts_urls)
+
+    #takes url and pulls html file
     #transcripts_urls = soupify()
 
+    #minimizes html file
     #minimize()
 
-    minimize_again()
+    #reduces file again
+    #minimize_again()
+
+    #only takes text from remaining file
+    #pull_text()
+
+    change_file_extenstion()
 
     #get_transcripts(transcripts_urls)
