@@ -173,7 +173,7 @@ def character_dictionary():
 
     for i in range(1,172):
         #get path for file
-        path = f"txt_transcripts/Episode-1.txt"
+        path = f"txt_transcripts/Episode-{i}.txt"
 
 
         with open(path, 'r') as f:
@@ -199,12 +199,9 @@ def character_dictionary():
 
 
 
-    print(character_dictionary.keys())
+    return character_dictionary
 
 
-
-
-            #print(line_list)
 
 
 if __name__ == "__main__":
@@ -233,5 +230,7 @@ if __name__ == "__main__":
     #regex_brackets()
     #regex_character_lines()
 
-    character_dictionary()
+    char_dict = character_dictionary()
+
+    print(char_dict.keys())
 
