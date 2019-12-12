@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 import re
 import os
 from bs4 import BeautifulSoup
+import requests
 
 def soupify():
     with open('table.html', 'r') as f:
@@ -23,6 +24,19 @@ def soupify():
 
     return transcripts_urls
 
+def get_transcripts(transcripts_urls):
+
+    for transcript in transcripts_urls:
+        r = requests.get(f'https://vampirediaries.fandom.com{transcript}')
+
+        # write-html.py
+        with open(f'transcript_webpages/{transcript}.html', 'w') as f:
+            f.write(r.text)
+
+
+
 
 if __name__ == "__main__":
-    print(soupify())
+    transcripts_urls = soupify()
+
+    get_transcripts(transcripts_urls)
