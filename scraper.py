@@ -205,6 +205,16 @@ def character_dictionary():
     return character_dictionary
 
 
+def character_scripts(character_dictionary):
+
+    for character_name, sentence_list in character_dictionary.items():
+        path_to_file = f"character_scripts/{character_name}"
+
+        #append to file 
+        for sentence in sentence_list:
+            open(path_to_file,'a+').write(sentence + '\n')
+
+
 
 
 if __name__ == "__main__":
